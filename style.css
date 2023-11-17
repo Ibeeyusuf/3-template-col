@@ -74,25 +74,26 @@ padding: 40px;
 p{
     padding-bottom: 30px;
 }
-@media only screen and (max-width: 550px)
+@media only screen and (max-width: 780px)
 {
    .big{
     display: flex;       
-    flex-direction: column;    
+    flex-direction: column;
+      
     }
     .good-1{
-        background-color:  hsl(31, 77%, 52%);
-        padding: 40px;
+        
         border-top-left-radius: 12px;
         border-top-right-radius: 12px;
         border-bottom-left-radius: 0px;
     }
     .good-3{
-        background-color: hsl(179, 100%, 13%);
-        padding: 40px;
+        
         border-bottom-left-radius: 12px;
         border-bottom-right-radius: 12px;
         border-top-right-radius: 0px;
     }
 }
+
+
 
