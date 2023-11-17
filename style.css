@@ -74,7 +74,7 @@ padding: 40px;
 p{
     padding-bottom: 30px;
 }
-@media only screen and (max-width: 550px)
+@media only screen and (max-width: 780px)
 {
    .big{
     display: flex;       
